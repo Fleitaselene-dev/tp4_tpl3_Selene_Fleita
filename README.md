@@ -12,18 +12,18 @@ Para ejecutar este trabajo práctico necesitás:
 
 ---
 
-## Ejecucion
+## Ejecución
 
 1. Cloná el repositorio:
-2. ```bash
+   ```bash
    git clone https://github.com/Fleitaselene-dev/tp4_tlp3_Selene_Fleita.git
-3. Ingresa al directorio del proyecto
-4. ```bash
+3. Ingresa al directorio del proyecto:
+   ```bash
    cd tp4_tlp3_Selene_Fleita
-5. Instala la dependencia
-6. ```bash
+5. Instala la dependencia:
+   ```bash
    pip install numpy
 5. Inicia jupyter notebook
-6. ```bash
-  jupyter notebook
+   ```bash
+   jupyter notebook
  
